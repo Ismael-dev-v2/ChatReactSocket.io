@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Chat React
 Breve descripción del proyecto: El proyecto Chat React es una aplicación que desarrollé utilizando Socket.io, inspirado en un video tutorial de FaztCode. Este proyecto combina tanto el frontend como el backend, aprovechando las capacidades de Socket.io, una biblioteca que facilita la comunicación en tiempo real, permitiendo el intercambio de mensajes entre múltiples clientes y un servidor.
 
 
