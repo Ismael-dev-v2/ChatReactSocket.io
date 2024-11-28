@@ -26,6 +26,14 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 ```bash
 npm install
 ```
-4.Ejecuta el proyecto
+4.Ejecuta el backend:
 ```bash
-npm start
+npm run dev
+```
+5.Ve al frontend:
+```bash
+cd frontend
+```
+6.Ejecuta el frontend:
+```bash
+npm run dev
