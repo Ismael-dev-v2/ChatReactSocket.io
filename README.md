@@ -20,11 +20,12 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 2. Ve al proyecto:
   ```bash
   cd REACT-EXPRESs-SOCKETIO
+```
 
 3.Instala el proyecto:
 ```bash
 npm install
-
+```
 4.Ejecuta el proyecto
 ```bash
 npm start
